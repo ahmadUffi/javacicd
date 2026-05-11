@@ -2,7 +2,7 @@ public class Counter {
 
 	private int count;
 	
-	public Couner() {
+	public Counter() {
 		count = 0;
 	}
 		
